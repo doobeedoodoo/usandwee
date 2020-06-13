@@ -15,7 +15,7 @@ function OurWork() {
                   <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. Autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.</p>
                 </div>
               </div>
-              <img src="img/portfolio/thumb-02.jpg" alt="" title="Portfolio Image 1"></img>
+              <img src="img/portfolio/thumb-01.jpg" alt="" title="Portfolio Image 1"></img>
             </a>
           </div>
           <div className="s-12 m-6 l-3">
@@ -26,7 +26,7 @@ function OurWork() {
                   <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. Autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.</p>
                 </div>
               </div>
-              <img src="img/portfolio/thumb-09.jpg" alt="" title="Portfolio Image 2"></img>
+              <img src="img/portfolio/thumb-02.jpg" alt="" title="Portfolio Image 2"></img>
             </a>
           </div>
           <div className="s-12 m-6 l-3">
@@ -37,7 +37,7 @@ function OurWork() {
                   <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. Autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.</p>
                 </div>
               </div>
-              <img src="img/portfolio/thumb-08.jpg" alt="" title="Portfolio Image 3"></img>
+              <img src="img/portfolio/thumb-03.jpg" alt="" title="Portfolio Image 3"></img>
             </a>
           </div>
           <div className="s-12 m-6 l-3">
@@ -48,7 +48,7 @@ function OurWork() {
                   <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. Autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.</p>
                 </div>
               </div>
-              <img src="img/portfolio/thumb-05.jpg" alt="" title="Portfolio Image 4"></img>
+              <img src="img/portfolio/thumb-04.jpg" alt="" title="Portfolio Image 4"></img>
             </a>
           </div>
           <div className="s-12 m-6 l-3">
@@ -59,7 +59,7 @@ function OurWork() {
                   <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. Autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.</p>
                 </div>
               </div>
-              <img src="img/portfolio/thumb-06.jpg" alt="" title="Portfolio Image 5"></img>
+              <img src="img/portfolio/thumb-05.jpg" alt="" title="Portfolio Image 5"></img>
             </a>
           </div>
           <div className="s-12 m-6 l-3">
@@ -70,7 +70,7 @@ function OurWork() {
                   <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. Autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.</p>
                 </div>
               </div>
-              <img src="img/portfolio/thumb-11.jpg" alt="" title="Portfolio Image 6"></img>
+              <img src="img/portfolio/thumb-06.jpg" alt="" title="Portfolio Image 6"></img>
             </a>
           </div>
           <div className="s-12 m-6 l-3">
@@ -81,7 +81,7 @@ function OurWork() {
                   <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. Autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.</p>
                 </div>
               </div>
-              <img src="img/portfolio/thumb-12.jpg" alt="" title="Portfolio Image 7"></img>
+              <img src="img/portfolio/thumb-07.jpg" alt="" title="Portfolio Image 7"></img>
             </a>
           </div>
           <div className="s-12 m-6 l-3">
@@ -92,7 +92,7 @@ function OurWork() {
                   <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. Autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.</p>
                 </div>
               </div>
-              <img src="img/portfolio/thumb-07.jpg" alt="" title="Portfolio Image 8"></img>
+              <img src="img/portfolio/thumb-08.jpg" alt="" title="Portfolio Image 8"></img>
             </a>
           </div>
         </div>

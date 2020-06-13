@@ -6,11 +6,7 @@ function Header() {
     <>
       <header role="banner" className="position-absolute">
         <nav className="background-transparent background-transparent-hightlight full-width sticky">
-          <div className="s-12 l-2">
-            <Link to="/" className="logo">
-              usandweee logo here
-            </Link>
-          </div>
+          <div className="s-12 l-2"></div>
           <div className="top-nav s-12 l-10">
             <p className="nav-text"></p>
             <ul className="right chevron">

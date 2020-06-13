@@ -1,6 +1,10 @@
-import React from "react"
+import React, { useEffect } from "react"
 
 function Contact() {
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
+
   return (
     <>
       <main role="main">
@@ -23,11 +27,8 @@ function Contact() {
                       <i className="icon-sli-location-pin icon3x text-primary"></i>
                     </div>
                     <div className="margin-left-70 margin-s-left-0 margin-bottom">
-                      <h3 className="margin-bottom-0">Company Address</h3>
-                      <p>
-                        Responsive Street 7<br></br>
-                        London / UK / Europe
-                      </p>
+                      <h3 className="margin-bottom-0">Facebook</h3>
+                      <p>www.facebook.com/usandweee/</p>
                     </div>
                   </div>
                 </div>
@@ -38,10 +39,7 @@ function Contact() {
                     </div>
                     <div className="margin-left-70 margin-s-left-0 margin-bottom">
                       <h3 className="margin-bottom-0">E-mail</h3>
-                      <p>
-                        sampledomain.comcomcom<br></br>
-                        sampledomain.comcomcom
-                      </p>
+                      <p>usandweee@gmail.com</p>
                     </div>
                   </div>
                 </div>
@@ -50,14 +48,9 @@ function Contact() {
                     <div className="float-left hide-s">
                       <i className="icon-sli-phone icon3x text-primary"></i>
                     </div>
-                    <div className="margin-left-70 margin-s-left-0">
-                      <h3 className="margin-bottom-0">Phone Numbers</h3>
-                      <p>
-                        <span className="text-primary">Infoline: 0800 4521 800 50</span>
-                        <br></br>
-                        Office: 0450 5896 625 16<br></br>
-                        Office 2: 0798 6546 465 15
-                      </p>
+                    <div className="margin-left-70 margin-s-left-0 margin-bottom">
+                      <h3 className="margin-bottom-0">Phone Number</h3>
+                      <p>+63 917 123 4567</p>
                     </div>
                   </div>
                 </div>

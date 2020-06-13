@@ -1,6 +1,10 @@
-import React from "react"
+import React, { useEffect } from "react"
 
 function Services() {
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
+
   return (
     <>
       <main role="main">
@@ -16,7 +20,7 @@ function Services() {
           </header>
           <section className="section background-white">
             <div className="line">
-              <h2 className="text-size-40 margin-bottom-30">Investigationes demonstraverunt lectores</h2>
+              <h2 className="text-size-40 margin-bottom-30">Choose the package that suits you</h2>
               <hr className="break-small background-primary margin-bottom-30"></hr>
               <p className="margin-bottom-40">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
             </div>
@@ -25,31 +29,25 @@ function Services() {
                 <div className="s-12 m-12 l-4 margin-m-bottom">
                   <div className="padding-2x background-primary">
                     <i className="icon-sli-shield icon3x text-white margin-bottom-30"></i>
-                    <h2 className="text-thin">Unlimited Color Variants</h2>
-                    <p className="margin-bottom-30">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis</p>
-                    <a className="button button-white-stroke text-size-12" href="/">
-                      GET MORE INFO
-                    </a>
+                    <h2 className="text-thin">Unli Shoot</h2>
+                    <p className="margin-bottom-30">Unli shot hanggang sa manigas na panga mo kaka-pose. Diyan ka magaling eh.</p>
+                    <a className="button button-white-stroke text-size-12">P10,000</a>
                   </div>
                 </div>
                 <div className="s-12 m-12 l-4 margin-m-bottom">
                   <div className="padding-2x background-primary">
                     <i className="icon-sli-umbrella icon3x text-white margin-bottom-30"></i>
-                    <h2 className="text-thin">Parallax Background</h2>
-                    <p className="margin-bottom-30">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis</p>
-                    <a className="button button-white-stroke text-size-12" href="/">
-                      GET MORE INFO
-                    </a>
+                    <h2 className="text-thin">Pang Profile Pic Package</h2>
+                    <p className="margin-bottom-30">Palitan na natin profile pic mo dali. Ang pangit kasi.</p>
+                    <a className="button button-white-stroke text-size-12">P8,000</a>
                   </div>
                 </div>
                 <div className="s-12 m-12 l-4 margin-m-bottom">
                   <div className="padding-2x background-primary">
                     <i className="icon-sli-home icon3x text-white margin-bottom-30"></i>
-                    <h2 className="text-thin">Clean Modern Code</h2>
-                    <p className="margin-bottom-30">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis</p>
-                    <a className="button button-white-stroke text-size-12" href="/">
-                      GET MORE INFO
-                    </a>
+                    <h2 className="text-thin">Pang Akit sa Crush</h2>
+                    <p className="margin-bottom-30">Pag ito, hindi ka pa pinansin ng crush mo, ewan nalang.</p>
+                    <a className="button button-white-stroke text-size-12">P5,000</a>
                   </div>
                 </div>
               </div>

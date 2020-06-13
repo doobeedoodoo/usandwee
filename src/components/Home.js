@@ -5,6 +5,10 @@ import Footer from "./Footer"
 import AboutUsHome from "./AboutUsHome"
 
 function Home() {
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
+
   return (
     <>
       <main>
@@ -43,7 +47,7 @@ function Home() {
               <div className="s-12 m-12 l-4 margin-m-bottom">
                 <div className="padding-2x block-bordered">
                   <i className="icon-sli-shield icon3x text-dark center margin-bottom-30"></i>
-                  <h2 className="text-thin">Unlimited Color Variants</h2>
+                  <h2 className="text-thin">Napakagaling</h2>
                   <p className="margin-bottom-30">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis</p>
                   <a className="button button-dark-stroke text-size-12" href="/">
                     GET MORE INFO
@@ -53,7 +57,7 @@ function Home() {
               <div className="s-12 m-12 l-4 margin-m-bottom">
                 <div className="padding-2x block-bordered">
                   <i className="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                  <h2 className="text-thin">Parallax Background</h2>
+                  <h2 className="text-thin">Napakahusay</h2>
                   <p className="margin-bottom-30">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis</p>
                   <a className="button button-dark-stroke text-size-12" href="/">
                     GET MORE INFO
@@ -63,7 +67,7 @@ function Home() {
               <div className="s-12 m-12 l-4 margin-m-bottom">
                 <div className="padding-2x block-bordered">
                   <i className="icon-sli-home icon3x text-dark center margin-bottom-30"></i>
-                  <h2 className="text-thin">Clean Modern Code</h2>
+                  <h2 className="text-thin">Mabango</h2>
                   <p className="margin-bottom-30">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis</p>
                   <a className="button button-dark-stroke text-size-12" href="/">
                     GET MORE INFO

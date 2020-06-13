@@ -11,11 +11,11 @@ function Testimonials() {
           <div className="item">
             <div className="s-12 m-12 l-7 center text-center">
               <center>
-                <img className="image-testimonial-small" src="img/testimonials-04.png" alt=""></img>
+                <img className="image-testimonial-small" src="img/testi.jpg" alt=""></img>
               </center>
               <br></br>
-              <p className="h1 margin-bottom text-size-20">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis</p>
-              <p className="h1 text-size-16">Scott Star / CEO / Company</p>
+              <p className="h1 margin-bottom text-size-20">"Magaling si Jeano. Mabango pa."</p>
+              <p className="h1 text-size-16">Johnny Bravo, Satisfied Client</p>
             </div>
           </div>
         </div>

@@ -12,7 +12,7 @@ function AboutUsHome() {
           <div className="margin">
             <div className="s-12 m-12 l-2">
               <p className="h1 text-size-30 margin-m-bottom-30 text-primary text-line-height-1 text-right">
-                We Are<br></br> Web Design Heroes
+                We Are<br></br> Passionate About <br></br> Your Memories
               </p>
             </div>
             <div className="s-12 m-12 l-5">
@@ -27,7 +27,7 @@ function AboutUsHome() {
 
       <section className="full-width">
         <div className="s-12 m-12 l-6">
-          <img src="img/img-12.jpg" alt=""></img>
+          <img src="img/jeano.jpg" alt=""></img>
         </div>
         <div className="s-12 m-12 l-6">
           <div className="padding-2x">
@@ -36,7 +36,7 @@ function AboutUsHome() {
                 <i className="icon-sli-drop icon3x text-dark"></i>
               </div>
               <div className="margin-left-60 margin-bottom-30">
-                <h3 className="text-size-25 margin-bottom-0">Unlimited Color Variants</h3>
+                <h3 className="text-size-25 margin-bottom-0">No Memory Too Insignificant</h3>
                 <p className="text-dark">
                   Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.<br></br> Vel illum dolore eu feugiat nulla facilisis.
                 </p>
@@ -48,7 +48,7 @@ function AboutUsHome() {
                 <i className="icon-sli-screen-smartphone icon3x text-dark"></i>
               </div>
               <div className="margin-left-60 margin-bottom-30">
-                <h3 className="text-size-25 margin-bottom-0">Responsive Layoute</h3>
+                <h3 className="text-size-25 margin-bottom-0">Top Notch Shots</h3>
                 <p className="text-dark">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p>
               </div>
             </div>
@@ -58,7 +58,7 @@ function AboutUsHome() {
                 <i className="icon-sli-heart icon3x text-dark"></i>
               </div>
               <div className="margin-left-60 margin-bottom-30">
-                <h3 className="text-size-25 margin-bottom-0">Clean Minimalistic Design</h3>
+                <h3 className="text-size-25 margin-bottom-0">Easy To Work With</h3>
                 <p>
                   Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.<br></br> Vel illum dolore eu feugiat nulla facilisis.
                 </p>
@@ -70,7 +70,7 @@ function AboutUsHome() {
                 <i className="icon-sli-chart icon3x text-dark"></i>
               </div>
               <div className="margin-left-60 margin-bottom-30">
-                <h3 className="text-size-25 margin-bottom-0">Tons of Animated Elements</h3>
+                <h3 className="text-size-25 margin-bottom-0">Laging Bagong Ligo</h3>
                 <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p>
               </div>
             </div>
@@ -80,7 +80,7 @@ function AboutUsHome() {
                 <i className="icon-sli-globe-alt icon3x text-dark"></i>
               </div>
               <div className="margin-left-60">
-                <h3 className="text-size-25 margin-bottom-0">And many more...</h3>
+                <h3 className="text-size-25 margin-bottom-0">Kaya Laging Mabango</h3>
                 <p className="text-dark">
                   Nam liber tempor cum soluta nobis eleifend. Duis autem vel eum iriure dolor<br></br> in hendrerit in vulputate velit esse molestie consequat.
                 </p>
