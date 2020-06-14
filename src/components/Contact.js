@@ -1,4 +1,6 @@
-import React, { useEffect } from "react"
+import React, { useState, useEffect } from "react"
+import Form from "./Form"
+import MessageSent from "./MessageSent"
 
 function Contact() {
   useEffect(() => {
@@ -60,34 +62,7 @@ function Contact() {
             <div className="line">
               <div className="margin">
                 <div className="s-12 m-12 l-8">
-                  <h2 className="margin-bottom-10">Leave Message</h2>
-                  <form name="contactForm" className="customform" method="post">
-                    <div className="line">
-                      <div className="margin">
-                        <div className="s-12 m-12 l-6">
-                          <input name="email" className="required email" placeholder="Your e-mail" title="Your e-mail" type="text" />
-                          <p className="email-error form-error">Please enter your e-mail.</p>
-                        </div>
-                        <div className="s-12 m-12 l-6">
-                          <input name="name" className="name" placeholder="Your name" title="Your name" type="text" />
-                          <p className="name-error form-error">Please enter your name.</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="s-12">
-                      <input name="subject" className="subject" placeholder="Subject" title="Subject" type="text" />
-                      <p className="subject-error form-error">Please enter the subject.</p>
-                    </div>
-                    <div className="s-12">
-                      <textarea name="message" className="required message" placeholder="Your message" rows="3"></textarea>
-                      <p className="message-error form-error">Please enter your message.</p>
-                    </div>
-                    <div className="s-12">
-                      <button className="s-12 submit-form button background-primary text-white" type="submit">
-                        Submit Button
-                      </button>
-                    </div>
-                  </form>
+                  <Form />
                 </div>
               </div>
             </div>
