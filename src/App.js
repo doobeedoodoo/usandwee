@@ -31,6 +31,7 @@ function App() {
             <Contact />
           </Route>
         </Switch>
+        <Footer />
       </BrowserRouter>
     </>
   )

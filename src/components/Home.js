@@ -32,9 +32,12 @@ function Home(props) {
                         <p className="text-white text-size-14 margin-bottom-40">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. Iriure dolor in hendrerit duis autem vel eum in vulputate velit esse molestie consequat.</p>
                       </div>
                       <div className="line">
-                        <div className="s-12 m-12 l-3 center">
+                        {/* <div className="s-12 m-12 l-3 center">
                           <a className="button button-white-stroke s-12">Get Started Now</a>
-                        </div>
+                        </div> */}
+                        <br></br>
+                        <br></br>
+                        <br></br>
                       </div>
                     </div>
                   </div>
@@ -53,39 +56,32 @@ function Home(props) {
             <div className="margin">
               <div className="s-12 m-12 l-4 margin-m-bottom">
                 <div className="padding-2x block-bordered">
-                  <i className="icon-sli-shield icon3x text-dark center margin-bottom-30"></i>
-                  <h2 className="text-thin">Napakagaling</h2>
+                  <i className="icon-sli-camera icon3x text-dark center margin-bottom-30"></i>
+                  <h2 className="text-thin">High Quality Photos</h2>
                   <p className="margin-bottom-30">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis</p>
-                  <a className="button button-dark-stroke text-size-12">GET MORE INFO</a>
                 </div>
               </div>
               <div className="s-12 m-12 l-4 margin-m-bottom">
                 <div className="padding-2x block-bordered">
-                  <i className="icon-sli-umbrella icon3x text-dark center margin-bottom-30"></i>
-                  <h2 className="text-thin">Napakahusay</h2>
+                  <i className="icon-sli-control-forward icon3x text-dark center margin-bottom-30"></i>
+                  <h2 className="text-thin">Fast Delivery</h2>
                   <p className="margin-bottom-30">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis</p>
-                  <a className="button button-dark-stroke text-size-12">GET MORE INFO</a>
                 </div>
               </div>
               <div className="s-12 m-12 l-4 margin-m-bottom">
                 <div className="padding-2x block-bordered">
-                  <i className="icon-sli-home icon3x text-dark center margin-bottom-30"></i>
-                  <h2 className="text-thin">Mabango</h2>
+                  <i className="icon-sli-wallet icon3x text-dark center margin-bottom-30"></i>
+                  <h2 className="text-thin">Affordable</h2>
                   <p className="margin-bottom-30">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis</p>
-                  <a className="button button-dark-stroke text-size-12" href="/">
-                    GET MORE INFO
-                  </a>
                 </div>
               </div>
             </div>
           </div>
         </section>
-
-        <AboutUsHome />
         <OurWork />
+        <AboutUsHome />
         <Testimonials />
       </main>
-      <Footer />
     </>
   )
 }

@@ -28,25 +28,25 @@ function Services() {
               <div className="margin">
                 <div className="s-12 m-12 l-4 margin-m-bottom">
                   <div className="padding-2x background-primary">
-                    <i className="icon-sli-shield icon3x text-white margin-bottom-30"></i>
-                    <h2 className="text-thin">Unli Shoot</h2>
-                    <p className="margin-bottom-30">Unli shot hanggang sa manigas na panga mo kaka-pose. Diyan ka magaling eh.</p>
+                    <i className="icon-sli-heart icon3x text-white margin-bottom-30"></i>
+                    <h2 className="text-thin">Wedding Package</h2>
+                    <p className="margin-bottom-30">Love. Love. Love.</p>
                     <a className="button button-white-stroke text-size-12">P10,000</a>
                   </div>
                 </div>
                 <div className="s-12 m-12 l-4 margin-m-bottom">
                   <div className="padding-2x background-primary">
-                    <i className="icon-sli-umbrella icon3x text-white margin-bottom-30"></i>
-                    <h2 className="text-thin">Pang Profile Pic Package</h2>
-                    <p className="margin-bottom-30">Palitan na natin profile pic mo dali. Ang pangit kasi.</p>
+                    <i className="icon-sli-emotsmile icon3x text-white margin-bottom-30"></i>
+                    <h2 className="text-thin">Baby Package</h2>
+                    <p className="margin-bottom-30">Cute. Cute. Cute.</p>
                     <a className="button button-white-stroke text-size-12">P8,000</a>
                   </div>
                 </div>
                 <div className="s-12 m-12 l-4 margin-m-bottom">
                   <div className="padding-2x background-primary">
-                    <i className="icon-sli-home icon3x text-white margin-bottom-30"></i>
-                    <h2 className="text-thin">Pang Akit sa Crush</h2>
-                    <p className="margin-bottom-30">Pag ito, hindi ka pa pinansin ng crush mo, ewan nalang.</p>
+                    <i className="icon-sli-user-female icon3x text-white margin-bottom-30"></i>
+                    <h2 className="text-thin">Debut Package</h2>
+                    <p className="margin-bottom-30">Adorable. Adorable. Adorable.</p>
                     <a className="button button-white-stroke text-size-12">P5,000</a>
                   </div>
                 </div>

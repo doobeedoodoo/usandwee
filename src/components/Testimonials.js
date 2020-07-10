@@ -3,7 +3,7 @@ import React from "react"
 function Testimonials() {
   return (
     <>
-      <section className="section background-white text-center">
+      <section>
         <div className="line">
           <h2 className="text-size-50 text-center">Testimonials</h2>
           <hr className="break-small background-primary break-center"></hr>
@@ -14,8 +14,8 @@ function Testimonials() {
                 <img className="image-testimonial-small" src="img/testi.jpg" alt=""></img>
               </center>
               <br></br>
-              <p className="h1 margin-bottom text-size-20">"Magaling si Jeano. Mabango pa."</p>
-              <p className="h1 text-size-16">Johnny Bravo, Satisfied Client</p>
+              <p className="h1 margin-bottom text-size-20">"I'm very satisfied with his work!"</p>
+              <p className="h1 text-size-16 margin-bottom-80">Mr. Satisfied Client</p>
             </div>
           </div>
         </div>
