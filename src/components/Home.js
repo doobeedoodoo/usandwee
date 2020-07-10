@@ -9,17 +9,17 @@ function Home(props) {
     window.scrollTo(0, 0)
   }, [])
 
-  useEffect(() => {
-    if (!window.location.hash) {
-      window.location = window.location + "#home"
-      window.location.reload()
-    }
-  }, [])
+  // useEffect(() => {
+  //   if (!window.location.hash) {
+  //     window.location = window.location + "#home"
+  //     window.location.reload()
+  //   }
+  // }, [])
 
   return (
     <>
       <main>
-        <div className="carousel-default owl-carousel carousel-main carousel-nav-white background-dark text-center">
+        <div>
           <div className="background-dark text-center">
             <div className="item">
               <div className="s-12">
