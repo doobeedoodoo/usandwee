@@ -11,7 +11,7 @@ function Home(props) {
 
   useEffect(() => {
     if (!window.location.hash) {
-      window.location = window.location + "#loaded"
+      window.location = window.location + "#home"
       window.location.reload()
     }
   }, [])
